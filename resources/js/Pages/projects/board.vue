@@ -58,7 +58,7 @@ interface Task {
 
 const input  = ref('')
 
-</script  >
+</script>
 
 <script lang="ts" >
 

@@ -2,7 +2,7 @@
 import { ref } from 'vue';
 import { Head} from "@inertiajs/vue3";
 import AuthenticatedLayout from "@/Layouts/AuthenticatedLayout.vue";
-</script >
+</script>
 <template>
     <Head title="Inbox" />
 

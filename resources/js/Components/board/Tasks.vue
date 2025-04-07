@@ -86,7 +86,7 @@ const state = reactive<any>({
 
 
 
-</script  >
+</script>
 <template>
     <main class="flex-grow-1 board text-center ">
         <section class="task-section gap-6  ">
