@@ -18,11 +18,20 @@
                 </p>
 
                 <div class="text-black flex gap-2">
-                    <i class="fa-brands fa-facebook"></i>
-                    <i class="fa-brands fa-twitter"></i>
-                    <i class="fa-brands fa-instagram"></i>
-                    <i class="fa-brands fa-linkedin"></i>
-                </div>
+    <a href=https://www.facebook.com/salma.berrouk.1/ target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-facebook"></i>
+    </a>
+    <a href=https://x.com/SalmaBerrouk target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-twitter"></i>
+    </a>
+    <a href=https://www.instagram.com/salma_berrouk_/ target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-instagram"></i>
+    </a>
+    <a href=https://www.linkedin.com/in/salma-berrouk-703892233/ target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-linkedin"></i>
+    </a>
+</div>
+
             </div>
         </div>
     </div>

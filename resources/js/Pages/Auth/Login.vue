@@ -107,9 +107,7 @@ const submit = () => {
                     more.
                 </span>
                 </p>
-                <p class="mt-6">
-                    Privacy Policy | Terms of Service
-                </p>
+               
 
             </div>
 

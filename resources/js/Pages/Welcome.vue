@@ -6,7 +6,7 @@ import TheFooter from "@/Components/Welcome/TheFooter.vue";
 import TheInfo from "@/Components/Welcome/TheInfo.vue";
 import AboutUsCard from "@/Components/Welcome/AboutUsCard.vue";
 import ThePricing from "@/Components/Welcome/ThePricing.vue";
-
+import ppImage from '@/images/pp.png'
 defineProps({
   canLogin: Boolean,
   canRegister: Boolean,
@@ -25,6 +25,8 @@ const show = ref(false);
 
 
 
+
+const imageUrl = ppImage
 
 
 
@@ -72,7 +74,8 @@ const show = ref(false);
                 <i class="fa-solid fa-arrow-right"></i>
             </button>
         </div>
-        <img :src="cover" class="m-auto  max-h-[400px] max-w-[500px] " alt="Agile Vue cover image">
+        <!-- <img :src="imageUrl" class="m-auto  max-h-[400px] max-w-[500px]" alt="Agile Vue cover image"> -->
+        <img src="https://www.wuro.fr/medias/images/guichet-unique-2023.jpg?fx=c_1200_675" class="m-auto  max-h-[400px] max-w-[500px] " alt="Agile Vue cover image">
     </Header>
     <section class="text-center mt-12 p-12 bg-light-blue">
         <h2 class="text-4xl  mb-6 ">All from a single source of truth</h2>
